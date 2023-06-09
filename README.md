@@ -22,5 +22,5 @@ $ npm start
 The application will be running at http://localhost:3000
 
 Built with
-React - JavaScript library for building user interfaces
+React.js - JavaScript library for building user interfaces
 CSS Modules - A CSS file in which all class names and animation names are scoped locally by default.
